@@ -1,0 +1,16 @@
+/*.vertical-menu a {
+  background-color: rgb(243, 14, 14);
+  color: rgb(79, 45, 143);
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vertical-menu {
+  width: 200px;
+}*/
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+}
